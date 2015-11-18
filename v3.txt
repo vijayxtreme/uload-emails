@@ -1,0 +1,36 @@
+<!-- email 3 -->
+<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#fafbf8"  style="border-bottom: 1px solid #eceff1;">
+  <tr>
+     <td align="center">
+        <img width="100%" src="https://www.uload.com/img/Email_ULoad_ThankYou_Header.jpg">
+      <br>
+      <h1 class="blue">Thank You.</h1>
+      <hr>
+
+  <p>  
+Thanks for requesting a quote! Based on our available drivers, we were able to find you a quote for your move from 
+<b>Los Angeles, CA</b> to <b>New York, NY</b>. 
+</p>
+
+<h1 class="jumbo">$1923</h1>
+Reservation size: 9 linear feet
+<br><br><br>
+      <table width="280" border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate!important;border-radius:6px;background-color:#00c853">
+          <tbody>
+              <tr>
+                  <td align="center" valign="middle" style="font-size:18px;padding:25px">
+                      <a title="Book Your Move Online" href="#" style="letter-spacing:normal;line-height:100%;text-align:center;text-decoration:none;color:#ffffff;display:block" target="_blank">Book Your Move Online</a>
+                  </td>
+              </tr>
+          </tbody>
+      </table>
+
+      <br><br>
+
+       <p>or Call <a href="tel:888-856-2387">888-ULOAD-US</a></p>
+
+       <br><br>
+     </td>
+   </tr>
+</table>
+<!-- // email 3 -->
